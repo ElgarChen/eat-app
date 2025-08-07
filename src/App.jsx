@@ -25,7 +25,7 @@ function App() {
 
   return (
     <div style={{ textAlign: 'center', marginTop: '5rem', fontFamily: 'sans-serif' }}>
-      <h1>🤔 今天到吃什麼？</h1>
+      <h1>🤔 今天該吃什麼？</h1>
       <button
         onClick={decideFood}
         style={{
